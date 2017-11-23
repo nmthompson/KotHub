@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KotHub.iml" filepath="$PROJECT_DIR$/KotHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotHub.iml" filepath="$PROJECT_DIR$/.idea/modules/KotHub.iml" />
     </modules>
   </component>
 </project>
