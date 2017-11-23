@@ -1,4 +1,4 @@
-group 'com.gradle.something'
+group 'com.gradle.kot'
 version '0.1'
 
 buildscript {
