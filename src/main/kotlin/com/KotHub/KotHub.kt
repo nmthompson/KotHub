@@ -2,7 +2,7 @@
  * Created by nickthompson on 11/22/17.
  */
 
-package KotHub
+package com.KotHub
 
 import com.github.kittinunf.fuel.core.FuelManager
 import com.github.kittinunf.fuel.httpGet
