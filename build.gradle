@@ -18,9 +18,10 @@ mainClassName = 'KotHub.KotHubKt'
 defaultTasks 'run'
 
 repositories {
-    mavenCentral()
+    jcenter()
 }
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    compile 'com.github.kittinunf.fuel:fuel:1.12.0'
 }
